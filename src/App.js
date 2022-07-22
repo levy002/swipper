@@ -1,5 +1,5 @@
 import SwipperWrapper from "./components/SwipperWrapper";
-import './styles/swipper.css';
+import './styles/swipper.scss';
 
 function App() {
   return (
