@@ -5,7 +5,7 @@
 - SCSS
 
 ## Live Demo
-Visit live demo [here]()
+Visit live demo [here](https://swipper-app.netlify.app/)
 
 ## installation
 
