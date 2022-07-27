@@ -1,5 +1,7 @@
 # SWIPPER
   Swipper is a project which allows users to slide and see the different images fetched from API.
+  ![image](https://user-images.githubusercontent.com/87197412/181295793-19fa1ab9-5224-438d-b392-ae70fa480603.png)
+
 # Built with
 - React
 - SCSS
