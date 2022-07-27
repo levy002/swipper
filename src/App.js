@@ -1,7 +1,10 @@
+import SwipperWrapper from "./components/SwipperWrapper";
+import './styles/swipper.scss';
+
 function App() {
   return (
     <div>
-      <h1>Hello Swipper!!!</h1>
+      <SwipperWrapper />
     </div>
   );
 }
